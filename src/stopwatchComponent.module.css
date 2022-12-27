@@ -1,0 +1,24 @@
+.parent
+{
+display: flex;
+ font-family: cursive;
+font-size: 80px;
+margin-bottom: 50px;
+}
+
+.child
+{
+    flex: 1;
+    margin: 30px;
+    width: 70px;
+}
+
+.stop{
+    background-color: red;
+    color: white;
+}
+
+.start{
+    background-color: green;
+    color: white;
+}
